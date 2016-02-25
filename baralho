@@ -1,0 +1,22 @@
+<?php
+
+$cartas = [
+
+	nome => 'a',
+	valor=> '0',
+	naipe=[
+		nome=>'ouros',
+		nome=>'espadas',
+		nome=>'copas',
+		nome=>'paus'
+		
+		
+		
+	
+	]
+
+
+
+
+
+]
